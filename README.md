@@ -2,6 +2,9 @@
 
 A simple **Flappy Bird clone** made in Unity. 🕹️ Fly through obstacles and try to get the highest score!
 
+
+![Flappy Bird Gameplay](ezgif.com-optimize.gif)
+
 ## 🛠 Features
 - **Physics-based movement** 🎯
 - **Randomized Pipe Spawning** 🚧
